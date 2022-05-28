@@ -1,6 +1,8 @@
 let game = {
-    currentGame: [],
     score: 0,
+    currentGame: [],
+    playerMoves: [],
+    choices: [],
 };
 
 
